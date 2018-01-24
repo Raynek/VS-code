@@ -1,0 +1,17 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Atom One Dark",
+
+    //   ТАБЫ
+
+    "editor.tabSize": 2,
+
+    // GIT
+
+    "git.path": "S:\\web\\Git\\bin\\git.exe",
+
+    // Консоль
+
+    "terminal.integrated.shell.windows": "S:\\web\\Git\\bin\\bash.exe"
+
+}
