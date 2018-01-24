@@ -4,7 +4,7 @@
 
     //   ТАБЫ
 
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
 
     // GIT
 
@@ -13,5 +13,6 @@
     // Консоль
 
     "terminal.integrated.shell.windows": "S:\\web\\Git\\bin\\bash.exe",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true
 }
