@@ -12,6 +12,6 @@
 
     // Консоль
 
-    "terminal.integrated.shell.windows": "S:\\web\\Git\\bin\\bash.exe"
-
+    "terminal.integrated.shell.windows": "S:\\web\\Git\\bin\\bash.exe",
+    "git.autofetch": true
 }
